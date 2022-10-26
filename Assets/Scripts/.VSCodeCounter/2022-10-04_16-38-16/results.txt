@@ -1,0 +1,86 @@
+Date : 2022-10-04 16:38:16
+Directory : f:\Unity\Project\Out of the Geometry\Assets\Scripts
+Total : 49 files,  2534 codes, 238 comments, 57 blanks, all 2829 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| C#       |         49 |      2,534 |        238 |         57 |      2,829 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                      | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                         |         49 |      2,534 |        238 |         57 |      2,829 |
+| Bonus                                                                                     |          1 |         20 |          3 |          1 |         24 |
+| Character                                                                                 |         11 |        552 |         44 |         11 |        607 |
+| Character\Enemy                                                                           |          9 |        322 |         29 |          9 |        360 |
+| Character\Player                                                                          |          2 |        230 |         15 |          2 |        247 |
+| Controllers                                                                               |         11 |        748 |         45 |         13 |        806 |
+| Data                                                                                      |          1 |          9 |          3 |          1 |         13 |
+| InputSystem                                                                               |          1 |         96 |          3 |          6 |        105 |
+| Managers                                                                                  |          4 |        191 |         12 |          4 |        207 |
+| PoolSystem                                                                                |          2 |        177 |          7 |          2 |        186 |
+| Projectile                                                                                |          5 |         93 |         15 |          5 |        113 |
+| System Modules                                                                            |          4 |        327 |         45 |          4 |        376 |
+| Tool                                                                                      |          8 |        305 |         58 |          9 |        372 |
+| UI                                                                                        |          1 |         16 |          3 |          1 |         20 |
++-------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                                  | language | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Bonus\BonusCube.cs                    | C#       |         20 |          3 |          1 |         24 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Character\Enemy\ArrowEnemy.cs         | C#       |         22 |          3 |          1 |         26 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Character\Enemy\Birth.cs              | C#       |         21 |          3 |          1 |         25 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Character\Enemy\Boss.cs               | C#       |        111 |          3 |          1 |        115 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Character\Enemy\BossBrith.cs          | C#       |         17 |          4 |          1 |         22 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Character\Enemy\DoubleCubeEnemy.cs    | C#       |         22 |          3 |          1 |         26 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Character\Enemy\Enemy.cs              | C#       |         75 |          4 |          1 |         80 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Character\Enemy\GutsEnemy.cs          | C#       |         14 |          3 |          1 |         18 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Character\Enemy\Shield.cs             | C#       |          6 |          3 |          1 |         10 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Character\Enemy\SplitEnemy.cs         | C#       |         34 |          3 |          1 |         38 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Character\Player\PlayerBirth.cs       | C#       |         17 |          4 |          1 |         22 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Character\Player\PlayerController.cs  | C#       |        213 |         11 |          1 |        225 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Controllers\BGMController.cs          | C#       |         22 |          3 |          1 |         26 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Controllers\GameUIController.cs       | C#       |         34 |          5 |          1 |         40 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Controllers\Level01Controller.cs      | C#       |        100 |          3 |          1 |        104 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Controllers\Level02Controller.cs      | C#       |        130 |          3 |          1 |        134 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Controllers\Level03Controller.cs      | C#       |         41 |          3 |          1 |         45 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Controllers\Level04Controller.cs      | C#       |         32 |          3 |          1 |         36 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Controllers\Level05Controller.cs      | C#       |         38 |          3 |          1 |         42 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Controllers\LevelController.cs        | C#       |        175 |          9 |          2 |        186 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Controllers\SceneController.cs        | C#       |         67 |          3 |          1 |         71 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Controllers\TimeController.cs         | C#       |         65 |          4 |          2 |         71 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Controllers\UIController.cs           | C#       |         44 |          6 |          1 |         51 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Data\AudioData.cs                     | C#       |          9 |          3 |          1 |         13 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\InputSystem\PlayerInput.cs            | C#       |         96 |          3 |          6 |        105 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Managers\AudioManager.cs              | C#       |         21 |          3 |          1 |         25 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Managers\GameManager.cs               | C#       |         91 |          3 |          1 |         95 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Managers\MouseManager.cs              | C#       |         57 |          3 |          1 |         61 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Managers\ScoreManager.cs              | C#       |         22 |          3 |          1 |         26 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\PoolSystem\Pool.cs                    | C#       |         74 |          4 |          1 |         79 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\PoolSystem\PoolManager.cs             | C#       |        103 |          3 |          1 |        107 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Projectile\AimingProjectile.cs        | C#       |         19 |          3 |          1 |         23 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Projectile\NormalProjectile.cs        | C#       |          6 |          3 |          1 |         10 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Projectile\PenetrationProjectile.cs   | C#       |          6 |          3 |          1 |         10 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Projectile\PlayerOverDrive.cs         | C#       |         14 |          3 |          1 |         18 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Projectile\Projectile.cs              | C#       |         48 |          3 |          1 |         52 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\System Modules\GameSetting.cs         | C#       |         21 |          3 |          1 |         25 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\System Modules\GuidenceSystem.cs      | C#       |        266 |         36 |          1 |        303 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\System Modules\PersistentSingleton.cs | C#       |         24 |          3 |          1 |         28 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\System Modules\Singleton.cs           | C#       |         16 |          3 |          1 |         20 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Tool\AutoDeactivate.cs                | C#       |         29 |          3 |          2 |         34 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Tool\BackgroundMove.cs                | C#       |         18 |          3 |          1 |         22 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Tool\FollowObject.cs                  | C#       |         27 |          0 |          1 |         28 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Tool\FollowTarget.cs                  | C#       |         29 |          3 |          1 |         33 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Tool\LevelCubeEvent.cs                | C#       |        109 |          5 |          1 |        115 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Tool\PersistenObject.cs               | C#       |          6 |          3 |          1 |         10 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Tool\RotationControl.cs               | C#       |         27 |          0 |          1 |         28 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\Tool\Tool.cs                          | C#       |         60 |         41 |          1 |        102 |
+| f:\Unity\Project\Out of the Geometry\Assets\Scripts\UI\UIAudio.cs                         | C#       |         16 |          3 |          1 |         20 |
+| Total                                                                                     |          |      2,534 |        238 |         57 |      2,829 |
++-------------------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
