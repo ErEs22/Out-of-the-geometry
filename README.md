@@ -1,3 +1,3 @@
-# Out-of-the-geometry
+# Out-of-the-geometry 冲出几何
 A top down shooter game
-冲出几何
+
